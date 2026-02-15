@@ -269,7 +269,7 @@ const App = () => {
           >
             <div className="relative">
               {/* Main rounded image with glowing border */}
-              <div className="relative w-100 h-100 rounded-full overflow-hidden border-4 border-gradient-to-r from-cyan-500 via-indigo-500 to-purple-500 shadow-2xl shadow-cyan-500/30">
+              <div className="relative h-80 w-80 md:w-100 md:h-100 rounded-full overflow-hidden border-4 border-gradient-to-r from-cyan-500 via-indigo-500 to-purple-500 shadow-2xl shadow-cyan-500/30">
                 <img 
                   src="https://i.ibb.co.com/7JjvCp40/514216224-3594997643967816-5881922270589536192-n.jpg"
                   alt="Professional MERN Stack Developer"
